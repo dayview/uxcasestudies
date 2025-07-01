@@ -27,7 +27,7 @@ These case studies apply multiple UX research methods, including interviews, usa
 - [AnimoSearch](https://github.com/dayview/uxcasestudies/blob/main/Book%20Reservation%20System%20Analysis.pdf)
 
 ### 🧭 Information Architecture Analysis
-- Commute Optimization Proposal
+- [Commute Optimization Proposal](https://github.com/dayview/uxcasestudies/blob/main/Developing%20a%20Commute%20Planning%20and%20Optimization%20App%20for%20Students%20in%20Metro%20Manila.pdf)
 - [AnimoSearch](https://github.com/dayview/uxcasestudies/blob/main/Book%20Reservation%20System%20Analysis.pdf)
 
 ### 🧍 Persona Development & Journey Mapping
