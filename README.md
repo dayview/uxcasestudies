@@ -1,32 +1,34 @@
 # UX Case Studies
-all research methods used from user interviews to usability testing
 
-this repository is a collection of ux case studies conducted collectively (with academic colleagues) and personally (in relation to the documents) to explore and improve digital systems that students regularly interact with.
+All research methods used range from user interviews to usability testing.
 
-each project addresses a real-world problem in usability, accessibility, or functionality of an existing digital platform, especially those affecting students in metro manila.
+This repository is a collection of UX case studies conducted both collaboratively (with academic colleagues) and independently. These aim to explore and improve digital systems that students regularly interact with.
 
-these case studies apply multiple ux research methods such as interviews, usability evaluations, and information architecture analysis to propose evidence-based improvements.
+Each project addresses a real-world problem in usability, accessibility, or functionality of an existing digital platform, especially those affecting students in Metro Manila.
+
+These case studies apply multiple UX research methods, including interviews, usability evaluations, and information architecture analysis, to propose evidence-based improvements.
 
 ---
 
-ux research methods used:
-user interviews and surveys
-1. filibus interest interview
-2. commute optimization proposal
+## 🔬 UX Research Methods Used
 
-contextual shadowing
-1. commute optimization proposal
+### 🗣️ User Interviews & Surveys
+- FiliBus Interest Interview
+- Commute Optimization Proposal
 
-focus groups
-1. commute optimization proposal
+### 👣 Contextual Shadowing
+- Commute Optimization Proposal
 
-usability evaluation
-1. student management portal
-2. animosearch
+### 🧑‍🤝‍🧑 Focus Groups
+- Commute Optimization Proposal
 
-information architecture analysis
-1. commute optimization proposal
-2. animosearch
+### 🧪 Usability Evaluation
+- Student Management Portal
+- AnimoSearch
 
-persona development & journey mapping
-1. commute optimization proposal
+### 🧭 Information Architecture Analysis
+- Commute Optimization Proposal
+- AnimoSearch
+
+### 🧍 Persona Development & Journey Mapping
+- Commute Optimization Proposal
